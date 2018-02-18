@@ -1,0 +1,8 @@
+busts:
+  secrets:
+    token: RCOSCEPOMTR54MPERMEWCEC
+    id: 422042042
+  dirs:
+    examples: _examples
+    home: /home
+    

@@ -1,0 +1,2 @@
+TOKEN={{ .secrets.token }}
+HOME={{ .dirs.home }}
